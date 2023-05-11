@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
