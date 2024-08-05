@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+YAML reformat (#7669)
